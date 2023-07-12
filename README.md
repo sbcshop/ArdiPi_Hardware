@@ -14,11 +14,13 @@ In this **github repo** you will find **hardware files** for **ArdiPi**.
 * [**ArdiPi Getting Started**](https://github.com/sbcshop/ArdiPi_Software) - This repo contains ArdiPi Getting Started Guide and Sample Codes.
 
 ## Related Products
-   * [Ardi UHF Shield](https://tinyurl.com/5ezdm7r2) - Ardi UHF Shield
-   * [Ardi Display Shield](https://shop.sb-components.co.uk/products/ardi-display-shield-for-arduino-uno?_pos=1&_sid=c915b53b5&_ss=r) - Ardi Display Shield
-   * [Ardi RFID Shield](https://tinyurl.com/mv7addc2) - Ardi RFID Shield 
-   * [Ardi Relay Shield](https://shop.sb-components.co.uk/products/ardi-relay-shield-for-arduino-uno?_pos=1&_sid=79d82d29c&_ss=r) - Ardi Relay Shield
-   * [Ardi Series](https://shop.sb-components.co.uk/products/ardi-series-arduino-uno-alternative?variant=40572595699795) - Arduino Uno form factor variants based on ESP32 S3
+   * [Ardi-32](https://shop.sb-components.co.uk/products/ardi32-uno-r3-alternative-board-based-on-esp32-s3-wroom?_pos=6&_sid=90d9cefb0&_ss=r) - Arduino Uno Form factor with latest powerful ESP32 S3
+   * [Ardi Relay Shield](https://shop.sb-components.co.uk/products/ardi-relay-shield-for-arduino-uno?_pos=4&_sid=961a5887c&_ss=r) - Relay Shield with Screw terminal and Relay ON/OFF Status LED
+   * [Ardi Display Shield](https://shop.sb-components.co.uk/products/ardi-display-shield-for-arduino-uno?_pos=5&_sid=961a5887c&_ss=r) - 2.0" Display Shield with onboard Programmable Buttons and Joystick
+   * [Ardi UHF Shield](https://shop.sb-components.co.uk/products/ardi-uhf-shield-for-arduino-uno?variant=40791294836819) - UHF based shield with Oled display and Buzzer onboard
+   * [Ardi RFID Shield](https://shop.sb-components.co.uk/products/ardi-rfid-shield-for-arduino-uno?_pos=5&_sid=b4e4b2ef1&_ss=r) - Ardi RFID Shield with onbard Relay and Status LED
+   
+   Shields are compatible with ArdiPi, Ardi-32 and Other Arduino Uno Compatible boards.
 
 ## Product License
 
