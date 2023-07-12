@@ -1,5 +1,5 @@
 # ArdiPi_Hardware
-<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/ArdiPi_Ardi-32_1.jpg?v=1679286826">
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/ARDIPI_bannerRev.jpg?v=1688463003">
 
 ArdiPi the ultimate Arduino Uno alternative packed with powerful specs and exciting features. Complete replacement board for Arduino Uno with enhanced performance and support for multiple programming languages including Arduino IDE, C/C++, Python, and CircuitPython.
 
